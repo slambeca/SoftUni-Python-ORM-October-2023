@@ -16,3 +16,4 @@ The course covers the basics of mapping between a relational database and an obj
 * Working with a database using an ORM
 
 # Certificate and Course Cirriculum
+![Python ORM - October 2023 - Certificate](https://github.com/slambeca/SoftUni-Python-ORM-October-2023/assets/95913250/4737bf02-8de6-43c1-9759-48ff69da0c7c)
