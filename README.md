@@ -1,4 +1,4 @@
-#![272037856-707f799b-10e0-42bb-9a83-61ec3c137a23](https://github.com/slambeca/SoftUni-Python-ORM-October-2023/assets/95913250/5a5cbd67-88bf-4f96-8b3b-a2c3314745c6)
+![272037856-707f799b-10e0-42bb-9a83-61ec3c137a23](https://github.com/slambeca/SoftUni-Python-ORM-October-2023/assets/95913250/5a5cbd67-88bf-4f96-8b3b-a2c3314745c6)
 
 # SoftUni-Python-ORM-October-2023
 
